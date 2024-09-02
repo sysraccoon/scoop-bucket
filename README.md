@@ -15,3 +15,5 @@ scoop install sysraccoon/<application-name>
 
 ## Packed application list
 
++ `kanata-winiov2` ([manifest](manifest/kanata-winiov2.json)) - [kanata](https://github.com/jtroo/kanata) is advanced software keyboard remapper
+
